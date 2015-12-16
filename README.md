@@ -1,5 +1,7 @@
-One-to-Many Relationships Tutorial
+[Archive] One-to-Many Relationships Tutorial
 ==================================
+
+**Note:** *This repository is not under active development.*
 
 This project teaches you how to create one-to-many relationships in Parse using a simple blogging application.
 
